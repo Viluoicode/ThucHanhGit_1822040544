@@ -2,7 +2,7 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: _Cập nhật họ tên_
+- Họ và tên: Trần Vĩ
 - MSSV: 1822040544
 - Repository: https://github.com/Viluoicode/ThucHanhGit_1822040544
 
